@@ -86,7 +86,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Sophia News 🙋‍♀️ ", url=f"https://t.me/SophiaUpdates"),
+        InlineKeyboardButton(text="SF News 🙋‍♀️ ", url=f"https://t.me/SophiaUpdates"),
         InlineKeyboardButton(text="Support Group 💬 ", url=f"https://t.me/SophiaSupport_Official"),
     ],
     [
@@ -95,8 +95,8 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-Hi Boss! I'm <b>Sophia</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you.
-"""
+Hi Boss! I'm <b>SF BOT MANAGE </b>. """
+
 
 DONATE_STRING = """ Join Updates Channel @SophiaUpdates | Support Group @SophiaSupport_Official"""
 
